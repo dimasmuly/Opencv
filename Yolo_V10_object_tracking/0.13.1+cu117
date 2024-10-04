@@ -1,0 +1,4 @@
+Looking in indexes: https://pypi.org/simple, https://download.pytorch.org/whl/cu117
+Collecting torch==1.13.1+cu117
+  Downloading https://download.pytorch.org/whl/cu117/torch-1.13.1%2Bcu117-cp310-cp310-win_amd64.whl (2255.4 MB)
+     -------                                  0.4/2.3 GB 3.8 MB/s eta 0:08:13
